@@ -10,7 +10,7 @@ namespace Functions {
         public GameObject projectilePrefab;
 
         //speed at which the the projectile will be flung
-        public float projectileSpeed = 500f;//from 20 copy MERGE PLS 1
+        public float projectileSpeed = 1f;//from 20ghar original
         //Rate of Fire
         public float shootRate = 0.1f;
 
